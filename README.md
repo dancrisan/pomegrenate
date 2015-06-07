@@ -1,9 +1,14 @@
 # pomegrenate
-**Cloud app** writes to ClusterPoint DB (node.js) + **Mobile app** reads from DB (java)
+## **Cloud app** writes to ClusterPoint DB (node.js) + **Mobile app** reads from DB (java)
+
+**To get started**
 
 * go to https://www.clusterpoint.com/
+
 * create a free account
+
 * create a database
+
 
 **To read from the DB and display data in your command line :** 
 
@@ -20,6 +25,7 @@ If SDK 8 then use
 * javac -cp cps2-java-api-java-8.jar testJavaToClusterPoint.java
 
 * java -cp .:cps2-java-api-java-8.jar testJavaToClusterPoint
+
 
 **To write to your DB with a node.js application** 
 

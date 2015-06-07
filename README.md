@@ -1,7 +1,9 @@
 # pomegrenate
-Cloud write to ClusterPoint DB (node.js) + Mobile read from DB (java) 
+**Cloud app** writes to ClusterPoint DB (node.js) + **Mobile app** reads from DB (java)
 
-Go to https://www.clusterpoint.com/, create a free account and then a database
+* go to https://www.clusterpoint.com/
+* create a free account
+* create a database
 
 **To read from the DB and display data in your command line :** 
 

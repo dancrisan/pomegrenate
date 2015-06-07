@@ -1,5 +1,6 @@
 # pomegrenate
-## **Cloud app** writes to ClusterPoint DB (node.js) + **Mobile app** reads from DB (java)
+## **Cloud app** writes to ClusterPoint DB (node.js)
+**Mobile app** reads from DB (java)
 
 **To get started**
 
